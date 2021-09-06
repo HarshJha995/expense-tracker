@@ -1,10 +1,8 @@
 # Expense Tracker
 ## Add and view expenses in a chart based format. Filter expenses by year. 
-
-
-
-
-
+<br/>
+<br/>
+<br/>
 
 # Getting Started with Create React App
 
@@ -78,4 +76,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # expense-tracker
->>>>>>> 3756a92d0aefc76df1c79c5958f059978b3acd20
