@@ -1,5 +1,5 @@
 # Expense Tracker
-## Add and view expenses in a chart based format. Filter expenses by year. 
+Add and view expenses in a chart based format. Filter expenses by year. 
 <br/>
 <br/>
 <br/>
